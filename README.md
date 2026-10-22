@@ -19,7 +19,7 @@ Issaquah, WA. Full write-ups with diagrams at [dearyali.com](https://dearyali.co
 
 Also public: [meibook](https://github.com/yalili8521/meibook), a booking and prepaid-card ledger
 app for one-person studios; [crypto-alpha-bench](https://github.com/yalili8521/crypto-alpha-bench),
-three pre-registered crypto alpha tests with negative results kept; [auctura-wechat-ai](https://github.com/yalili8521/auctura-wechat-ai),
+three pre-registered crypto alpha tests with negative results kept; [wechat-ai-webhook](https://github.com/yalili8521/wechat-ai-webhook),
 a WeChat auto-reply webhook that answers inside the five-second deadline; and two bootcamp React
 stores, [funzmart](https://github.com/yalili8521/funzmart) and [salinaka](https://github.com/yalili8521/salinaka).
 
