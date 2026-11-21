@@ -4,7 +4,7 @@ Engineer who builds and operates LLM systems that have to keep running: a live f
 execution service with broker reconciliation and a regression suite, a scheduled agent fleet
 graded by a critic agent, and a message bus that lets two models and a human share one task.
 Five years in structural engineering (licensed P.E., Washington) before the move to software.
-Issaquah, WA. Full write-ups with diagrams at [dearyali.com](https://dearyali.com).
+Seattle area, WA. Full write-ups with diagrams at [dearyali.com](https://dearyali.com).
 
 ## Selected work
 
