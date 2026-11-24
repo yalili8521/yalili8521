@@ -34,9 +34,3 @@ stores, [funzmart](https://github.com/yalili8521/funzmart) and [salinaka](https:
   Pine Script; Claude API, Model Context Protocol servers, Microsoft Foundry Agent Service,
   multi-agent orchestration, evaluation loops.
 
-## Before this
-
-Ph.D. in timber engineering (Mississippi State), M.S. structural engineering (Tongji),
-licensed Professional Engineer in Washington. Designed marine structures, seawalls, retaining
-walls and bridges for ports and municipal clients, evaluated engineered wood products against
-building codes, and ran finite element models against lab data.
