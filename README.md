@@ -17,8 +17,7 @@ Seattle area, WA. Full write-ups with diagrams at [dearyali.com](https://dearyal
 | [subscription-tracker](https://github.com/yalili8521/subscription-tracker) | React and TypeScript front end, serverless API on Vercel with MongoDB, Google sign-in, and a Gmail import that asks a model whether each billing email is a subscription | Three days, 55 commits. A second-model review caught the full email body going to the model; the import now redacts it first. |
 | [quantitivestocks](https://github.com/yalili8521/quantitivestocks) | ML trading research for ETFs: an LSTM that regresses expected return instead of predicting direction, XGBoost and LightGBM models, walk-forward backtests, Alpaca paper trading, public dashboard | The backtests said the edge was not there. The dashboard still shows the paper accounts, losses included. |
 
-Also public: [meibook](https://github.com/yalili8521/meibook), a booking and prepaid-card ledger
-app for one-person studios; [crypto-alpha-bench](https://github.com/yalili8521/crypto-alpha-bench),
+Also public: [crypto-alpha-bench](https://github.com/yalili8521/crypto-alpha-bench),
 three pre-registered crypto alpha tests with negative results kept; [wechat-ai-webhook](https://github.com/yalili8521/wechat-ai-webhook),
 a WeChat auto-reply webhook that answers inside the five-second deadline; and two bootcamp React
 stores, [funzmart](https://github.com/yalili8521/funzmart) and [salinaka](https://github.com/yalili8521/salinaka).
